@@ -6,5 +6,7 @@ Quiero aprender un poco mas de pprogramacion y utilizar R como parte de las herr
 
 En el pasado he intensdtado aprender mas de R sin mucho exito. Creo que el modelo de aprender en linea es interesante pero necesita compromiso por parte del estudiante.
 
-mi intencion es tener herramientas adicionales para hacer modelacion de datos y visualizaciones que pueden explicar cambios a audiencias no muy expuestas a conceptos matematic
+Mi intencion es tener herramientas adicionales para hacer modelacion de datos y visualizaciones que pueden explicar cambios a audiencias no muy expuestas a conceptos matematicos.
+
+Eventualmente quiero incursionar en Phyton como otra herramienta en el arsenal para la creacion y validacion de modelos matematicos que soportan analisis de datos.
 
